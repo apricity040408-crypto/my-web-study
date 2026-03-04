@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>超链接</title>
+</head>
+<body>
+    <h2>超链接</h2>
+    <a href="http://www.baidu.com" target="_blank">百度（新窗口打开）</a>
+    <p>上面是一个超链接，点击后会跳转到百度首页。</p>
+</body>
+</html> 
